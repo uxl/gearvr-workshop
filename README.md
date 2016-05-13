@@ -12,13 +12,14 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 Android Studio - SDK 5.0 and SDK Tools  
 http://developer.android.com/sdk/installing/index.html
 
-Download OVR Unity Utilties
+Download OVR Unity Utilties  
 https://developer.oculus.com/downloads/game-engines/1.3.2/OVRPlugin_for_Unity_5/
 
 <img width="500" alt="custompackage" src="https://cloud.githubusercontent.com/assets/2991299/15237116/360b6f24-1899-11e6-9922-7171c3094d9f.png">
 
 
-- At the bottom of the splash screen you can access SDK Manager to install ADB
+- At the bottom of the splash screen you can access SDK Manager to install ADB  
+  <img width="671" alt="manager" src="https://cloud.githubusercontent.com/assets/2991299/15237258/4db15cc8-189a-11e6-815d-3ecaf5e2e54b.png">
 
 ####or
 
