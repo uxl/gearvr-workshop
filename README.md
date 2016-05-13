@@ -14,6 +14,8 @@ http://developer.android.com/sdk/installing/index.html
 
 - At the bottom of the splash screen you can access SDK Manager to install ADB
 
+<img width="645" alt="custompackage" src="https://cloud.githubusercontent.com/assets/2991299/15237116/360b6f24-1899-11e6-9922-7171c3094d9f.png">
+
 ####or
 
 
