@@ -24,12 +24,23 @@ http://developer.android.com/sdk/installing/index.html
 5. Get OSig file:  
 
   1. connect mobile device  
-  2. `adb devices`
+  2. `adb devices`  
+  
+  		List of devices attached  
+    	ce0551e7 device
+    
+	In this example the Device ID is ce0551e7.
+	
   3. generate file:   
 https://developer.oculus.com/osig/
 
+
 Store this signature file in a safe location. Whenever you want to allow an application to use VR functionality, place a copy of this file in your application’s assets folder then recompile and sign your APK.
 
+   - For native apps, place the generated signature file in:  
+    `Project/assets/`  
+   - For Unity apps, place the signature file in:   
+    `Project/Assets/Plugins/Android/assets/`
 
 ##Development environment
 
